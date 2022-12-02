@@ -1,0 +1,40 @@
+.chat-form{
+margin: auto;
+    width: 500px;
+    height: 100px;
+    border: 1px solid blue;
+    border-radius: 5px;
+margin-top: 100px;
+background-color: rgb(159, 239, 239);
+
+}
+.chat-form input{
+    width: 300px;
+    margin: 10px;
+    padding: 5px;
+    height: 20px;
+    border-radius: 8px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10px;
+
+}
+#delete{
+color: white;
+background-color: tomato;
+padding: 5px;
+border: none;
+
+border-radius: 5px;
+}
+#Addtask{
+    color:white;
+    background-color: green;
+padding: 5px;
+border: none;
+border-radius: 5px;
+
+}

@@ -1,0 +1,53 @@
+
+.firstname{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border: 1px solid white;
+
+}
+.lastname{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border: 1px solid white;
+
+}
+.email{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border: 1px solid white;
+
+}
+.password{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border: 1px solid white;
+
+}
+.signup{
+padding: 10px;
+font-size: 16px ;
+font-weight: 600;
+color:white;
+background-color: grey;
+box-shadow: 2px 2px 3px rgba(0,0,0,.25);
+border: 1px solid white;
+border-radius: 5px;
+}
+.buttons{
+display: flex;
+justify-content: center;
+align-items: center;
+border: 1px solid white;
+
+
+
+
+}
